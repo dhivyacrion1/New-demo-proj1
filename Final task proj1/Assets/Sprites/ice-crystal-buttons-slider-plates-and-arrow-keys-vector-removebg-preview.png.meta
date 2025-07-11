@@ -1,0 +1,593 @@
+fileFormatVersion: 2
+guid: ba5ce75ef832deb4cadcae4616c0e387
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 298
+        width: 94
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ea8c8396ed6ac4a83381a5bd569a3f
+      internalID: -1273546402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 185
+        width: 109
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a34d9ccebed41428aff688ac733cfd
+      internalID: 1579674369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 243
+        width: 175
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a93ca3f9299b044a1c302a6e60fb2c
+      internalID: -1062659689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 321
+        width: 141
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4170f8a0caaf141b6ef500a037721d
+      internalID: 1483220109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 227
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0a59ec9a4fa9748b82b611d96cd9a1
+      internalID: -1086626553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 226
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f20e9234fe964d4eaa665d0c7bd1415
+      internalID: 343894036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 253
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8c1afe9b16d2a4ba8c04993e9141d3
+      internalID: 520845376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 254
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58759d9af6e89947bfbfc83e3e2c089
+      internalID: 956544363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 156
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46743e1793f8c0b4e98223450c1d5cbf
+      internalID: -787943125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 129
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8242b7596ab84be459c6aacddc6e4a89
+      internalID: 1123511082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 173
+        width: 138
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9870adc4012724f90d6ac2b482acbf
+      internalID: -1865404371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 180
+        width: 162
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df021734b77ac3940bec4648986752c0
+      internalID: 1278476811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 101
+        width: 145
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7caabe2ed3bc2544fb21c385cef0284a
+      internalID: 703661041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 115
+        width: 172
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e2190697c598d4ba9275b3b05a9499
+      internalID: -2137001901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 96
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a894b8dc1fcf84a9b7f22948261125
+      internalID: 1877908282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 22
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f12c32174fea0429830f635631e096
+      internalID: 165828112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 25
+        width: 120
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11523b35e7393054e800a74cc98d8ef2
+      internalID: 670549289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 24
+        width: 168
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407a1d82bcd02ea4784739d1c4fad1e6
+      internalID: 2051448360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 22
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222cdbf5abf41bc49b34b83e9e5905a3
+      internalID: 589414668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c04be97391dd4a44881f1a1de4d9f175
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_0: -1273546402
+      ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_1: 1579674369
+      ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_10: -1865404371
+      ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_11: 1278476811
+      ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_12: 703661041
+      ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_13: -2137001901
+      ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_14: 1877908282
+      ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_15: 165828112
+      ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_16: 670549289
+      ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_17: 2051448360
+      ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_18: 589414668
+      ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_2: -1062659689
+      ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_3: 1483220109
+      ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_4: -1086626553
+      ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_5: 343894036
+      ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_6: 520845376
+      ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_7: 956544363
+      ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_8: -787943125
+      ice-crystal-buttons-slider-plates-and-arrow-keys-vector-removebg-preview_9: 1123511082
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
