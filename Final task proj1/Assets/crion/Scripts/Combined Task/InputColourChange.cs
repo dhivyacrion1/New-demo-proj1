@@ -3,7 +3,7 @@ using TMPro;
 
 public class InputColourChanger : MonoBehaviour
 {
-    public GameObject cube;
+    public MeshRenderer cube;
     public TMP_InputField inputField;
     public TextMeshProUGUI colourText; // Reference to your Text (TMP) UI
 
@@ -45,7 +45,7 @@ public class InputColourChanger : MonoBehaviour
         }
 
         // Change cube colour
-        cube.GetComponent<Renderer>().material.color = newColor;
+        cube.material.color = newColor;
 
         // Update Text
         colourText.text = "I am " + colorName;
